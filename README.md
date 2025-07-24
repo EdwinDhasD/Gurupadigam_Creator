@@ -3,11 +3,17 @@
 This Gurupadigam creator application helps with easy automatic formatting of the Gurupadigam PPT. This application has the following features: 
 	
  (a) Automatic background change.
+ 
  (b) Automatic mentor-mentee photo placement and old photo replacement.
+ 
  (c) Automatic table formatting.
+ 
  (d) Generation of Gurupadigam for parents in PDF form.
+ 
  (e) Generation of Gurupadigam for students in PPT form (3 slides). 
+ 
  (f) Automatic sending of parents' Gurupadhigam (in PDF) through WhatsApp.
+
  (g) Automatic sending of students' Gurupadhigam (in PPT) through WhatsApp.
 
 This application requires the following:
