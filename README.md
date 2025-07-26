@@ -46,7 +46,7 @@ Download the Chrome driver that matches your Google Chrome version. Unzip and ke
 
 Download the Gurupadigam creator app from the following link and install it.
 
-https://www.dropbox.com/scl/fi/fmy600jkheedzt6ur35xn/Gurupadigam_Creator.exe?rlkey=3ucx3iwx4vgbzh9lofto6yvg2&st=iigbxe28&dl=0
+https://www.dropbox.com/scl/fi/1ll4fenlaibmsmwclrhbh/Gurupadigam_Creator.exe?rlkey=rlglb284r471ydf78p5bvc98g&st=18rhl64p&dl=0
 
 
 Read the "Instruction for using the application.pdf" for detailed informations. Also check the format for the excel file data.xlsx.
